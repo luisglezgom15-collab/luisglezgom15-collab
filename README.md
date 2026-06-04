@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello there, I'm Luis Gonzalez
 
-<!--
-**luisglezgom15-collab/luisglezgom15-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍 **Location:** Guadalajara, Jalisco, Mexico 🇲🇽
+* 📧 **Email:** [luis.glez.gom15@gmail.com](mailto:luis.glez.gom15@gmail.com)
+* 💻 **Currently Learning:** Web Development & Backend Development
+* 🚀 **Focused on:** JavaScript, Node.js, Git, APIs, and Web Applications
+
+I'm passionate about learning programming and building projects while improving my skills in frontend and backend development. I enjoy solving problems, learning new technologies, and creating web applications.
+
+---
+
+## 🖥️ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisglezgom15-collab&show_icons=true\&theme=radical)
+
+---
+
+Check out my repositories below ⬇️⬇️⬇️
