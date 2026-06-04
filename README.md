@@ -32,10 +32,4 @@ I'm passionate about learning programming and building projects while improving 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisglezgom15-collab&show_icons=true\&theme=radical)
-
----
-
 Check out my repositories below ⬇️⬇️⬇️
